@@ -1,4 +1,4 @@
 myName = "Anastasia"
 print(myName)
 myname = "Anastasia Garcia"
-print(myname) * 78
+print(myname * 78)
